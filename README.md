@@ -1,0 +1,1 @@
+**A fix to the django_dropbox_storage package**
